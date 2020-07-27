@@ -1,8 +1,8 @@
 ### 🌱 I’m currently learning ...
 
-![pleuvoir's github stats](https://github-readme-stats.vercel.app/api?username=pleuvoir&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pleuvoir&hide=html)](https://github.com/pleuvoir/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pleuvoir&hide=html&theme=highcontrast)](https://github.com/pleuvoir/github-readme-stats)
+![pleuvoir's github stats](https://github-readme-stats.vercel.app/api?username=pleuvoir&show_icons=true)
 
 <!--
 **pleuvoir/pleuvoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
