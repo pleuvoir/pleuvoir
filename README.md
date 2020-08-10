@@ -1,8 +1,9 @@
-### 🌱 I’m currently learning ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pleuvoir&hide=html,javascript)](https://github.com/pleuvoir/github-readme-stats)
 
-<!-- ![pleuvoir's github stats](https://github-readme-stats.vercel.app/api?username=pleuvoir&show_icons=true) -->
+- 🌱 I’m currently learning ...
+
+- os, network, golang
+
 
 <!--
 **pleuvoir/pleuvoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
