@@ -1,7 +1,5 @@
 
-🌱 I’m currently learning ...
-
- os, network, golang
+🌱 I’m currently learning  `@os, network, golang`
 
 
 <!--
