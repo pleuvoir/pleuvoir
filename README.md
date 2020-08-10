@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning ...
 
-- os, network, golang
+    os, network, golang
 
 
 <!--
